@@ -1,7 +1,7 @@
 
 <h1 align="center">Agrupador de Links</h1>
 
-<p align="center">Projeto webpage desenvolvida para praticar as ferramentas de front-end.
+<p align="center">Projeto webpage desenvolvido para praticar as ferramentas de front-end.
 </p>
 
 ---
